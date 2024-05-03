@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     💼 MSC • Artificial Intelligence Systems
     💻 NLP • Social graphs • Web scraping
     📖 A bit of everything
-    🎮 Music • Games • Anime
+    🎮 Music • Board Games • Anime
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/Thomas2710/Thomas2710/master/kyubey.gif" height="40" />
