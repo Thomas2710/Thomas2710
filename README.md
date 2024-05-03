@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+<div align="center">
+<img src="https://github.com/" width="25%" align="right" />
+-->
+<br><br>
+<pre>
+    💼 MSC • Artificial Intelligence Systems
+    💻 NLP • Social graphs • Web scraping
+    📖 A bit of everything
+    🎮 Music • Games • Anime • Code • Art
+</pre>
+<br><br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br><br>
+
+<!--
+[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
+-->
+</div>
