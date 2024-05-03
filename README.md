@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Thomas2710/Thomas2710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,7 +25,7 @@ Here are some ideas to get you started:
     🎮 Music • Games • Anime • Code • Art
 </pre>
 <br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://raw.githubusercontent.com/Thomas2710/Thomas2710/master/kyubey.gif" height="40" />
 <br><br><br>
 
 <!--
