@@ -28,7 +28,4 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/Thomas2710/Thomas2710/master/kyubey.gif" height="40" />
 <br><br><br>
 
-<!--
-[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
--->
 </div>
